@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 import pytesseract
 from PIL import Image
 import json
-
+# try to push in github
 # 1️⃣ Set the path to your Tesseract executable
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
