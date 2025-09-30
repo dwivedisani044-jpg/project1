@@ -36,7 +36,8 @@ for i in range(len(doc)):
 json_output = json.dumps(data, ensure_ascii=False, indent=4)
 
 # 7️⃣ Print JSON (optional)
-print(json_output)
+print(json_output) 
+print("tanuj dwivedi")
 
 # 8️⃣ Save JSON to a file
 # with open("output.json", "w", encoding="utf-8") as f:
